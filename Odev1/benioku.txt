@@ -1,0 +1,4 @@
+----------------------------------------UYARILAR-------------------------------------------
+1) Okunacak Dna.txt ve Islemler.txt belgeleri direkt olarak ana klasörün (B231210050) içerisine atılmalı!!
+2) Okunacak belgelerin ismi aynı yukarıda yazıldığı gibi olmalı!!
+3) Ödev rapor dosyası doc klasörü içerisine pdf formatında yüklenmiştir.
